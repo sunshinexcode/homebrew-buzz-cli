@@ -5,7 +5,7 @@ class BuzzCliAT010 < Formula
   desc 'Buzz CLI'
   homepage ''
   url 'https://github.com/sunshinexcode/buzz-cli/releases/download/v0.1.0/buzz-cli-macos-x64.tar.gz'
-  sha256 'e24fcdd4bd37d51b19d21c96307720c41d76f8eeb62f897bf126f9806e53a736'
+  sha256 '190a295f9f43c0dfcf9dcdc506309cc647e0cd2c3561b5c80f9c2b857bb46618'
   license 'MIT'
 
   # depends_on "cmake" => :build
